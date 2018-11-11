@@ -20,5 +20,5 @@ spring:
     username: guest
     password: guest
 girl:
-  name: yj
-  age: 20
+  name: mybaby
+  age: 22
